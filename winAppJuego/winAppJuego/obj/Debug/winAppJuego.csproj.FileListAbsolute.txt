@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\bin\Debug\winAppJuego.exe.config
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\bin\Debug\winAppJuego.exe
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\bin\Debug\winAppJuego.pdb
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.Form1.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.Properties.Resources.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.exe
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.pdb
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.Menu.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.FUNNY.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego._1.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego.Serie_2.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego._3.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego._4.resources
+C:\Users\chris\Desktop\cuarto semestre\proyecto integrador1\winAppJuego\winAppJuego\obj\Debug\winAppJuego._5.resources
